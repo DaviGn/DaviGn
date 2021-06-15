@@ -16,7 +16,5 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
 
 <p align="center">
-<a href="https://twitter.com/alissonsleal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="alissonsleal" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/alissonsleal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alissonsleal" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/14122260/alisson-leal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="alissonsleal" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/gndavi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alissonsleal" height="30" width="30" /></a>
 </p>
