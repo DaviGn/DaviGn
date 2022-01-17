@@ -1,8 +1,8 @@
 ## Hi there 👋, I'm Davi
-- 💻 I’m currently a Fullstack Developer at [UBus](https://ubus.com.br/)
-- 🔭 I’m currently working on: [WallIt](https://github.com/appWallit), a brazilian financial app
-- 🌱 I love to work with .Net, Typescript, React JS/Native, Node.Js
-- ⚡ Fun fact: I have a some of hobbies(Guitar, Gaming, Chess...)
+- 💻 I’m currently a Fullstack Developer at [UBus](https://ubus.com.br/);
+- 🔭 I’m currently working on: [WallIt](https://github.com/appWallit), a brazilian financial app;
+- 🌱 I love to work with .Net, React JS/Native, Node.Js;
+- ⚡ Fun fact: I have a some of hobbies (Guitar, Gaming, Chess...)
 
 
 <p align="center">
