@@ -17,5 +17,5 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/gndavi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alissonsleal" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/gndavi" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" alt="alissonsleal" height="30" width="30" /></a>
 </p>
