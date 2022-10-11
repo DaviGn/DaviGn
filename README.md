@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Davi
 - 💻 I’m currently a Tech Arch at [Avanade](https://www.avanade.com/pt-br);
 - 🔭 I’m currently working on my personal project: [WallIt](https://github.com/appWallit), a brazilian financial app;
-- 🌱 I love to work with .Net, React JS/Native, NodeJs;
+- 🌱 I love to work with .Net, Azure, Kubernetes, React JS/Native, NodeJs etc;
 - ⚡ Fun fact: I have a some of hobbies (Guitar, Gaming, Chess...)
 
 
