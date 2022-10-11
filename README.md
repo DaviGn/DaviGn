@@ -24,5 +24,12 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 
 <p align="center">
+<img src="https://raw.githubusercontent.com/DaviGn/DaviGn/master/azureIcons/dp900.png" alt="dp900" width="55" height="55"/>
+<img src="https://raw.githubusercontent.com/DaviGn/DaviGn/master/azureIcons/az900.png" alt="az900" width="55" height="55"/>
+<img src="https://raw.githubusercontent.com/DaviGn/DaviGn/master/azureIcons/az204.png" alt="az204" width="55" height="55"/>
+<img src="https://raw.githubusercontent.com/DaviGn/DaviGn/master/azureIcons/az104.png" alt="az104" width="55" height="55"/>
+<img src="https://raw.githubusercontent.com/DaviGn/DaviGn/master/azureIcons/az305.png" alt="az305" width="55" height="55"/>
+  
+<p align="center">
 <a href="https://www.linkedin.com/in/gndavi" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" alt="alissonsleal" height="30" width="30" /></a>
 </p>
