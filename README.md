@@ -28,6 +28,7 @@
 <img src="https://raw.githubusercontent.com/DaviGn/DaviGn/master/azureIcons/az900.png" alt="az900" width="55" height="55"/>
 <img src="https://raw.githubusercontent.com/DaviGn/DaviGn/master/azureIcons/az204.png" alt="az204" width="55" height="55"/>
 <img src="https://raw.githubusercontent.com/DaviGn/DaviGn/master/azureIcons/az104.png" alt="az104" width="55" height="55"/>
+<img src="https://raw.githubusercontent.com/DaviGn/DaviGn/master/azureIcons/dp203.png" alt="az305" width="55" height="55"/>
 <img src="https://raw.githubusercontent.com/DaviGn/DaviGn/master/azureIcons/az305.png" alt="az305" width="55" height="55"/>
   
 <p align="center">
