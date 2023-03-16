@@ -1,8 +1,8 @@
 ## Hi there 👋, I'm Davi
 - 💻 I’m currently a Solutions Architect at [Avanade](https://www.avanade.com/pt-br);
-- 🌱 I love to work with .NET, Azure, Kubernetes, React JS/Native, NodeJs etc;
+- 👨‍🏫 Teaching classes at [Ada](https://ada.tech/);
+- 🌱 Passionate for software engineering. I love to work with .NET, NodeJs, AWS, Azure, Docker, Kubernetes, React JS/Native etc;
 - ⚡ Fun fact: I have a some of hobbies (Guitar, Gaming, Chess...)
-
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="mongodb" width="40" height="40"/>
