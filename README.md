@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Davi
-- 💻 I’m currently a Solutions Architect at [Avanade](https://www.avanade.com/pt-br);
+- 💻 I’m currently a Solutions Architect at [Boticario Group](https://github.com/grupoboticario);
 - 👨‍🏫 Teaching classes at [Ada](https://ada.tech/);
 - 🌱 Passionate for software engineering. I love to work with .NET, NodeJs, AWS, Azure, Docker, Kubernetes, React JS/Native etc;
 - ⚡ Fun fact: I have a some of hobbies (Guitar, Gaming, Chess...)
