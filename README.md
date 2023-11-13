@@ -4,6 +4,8 @@
 - 🌱 Passionate for software engineering. I love to work with .NET, NodeJs, AWS, Azure, React JS, React Native etc;
 - ⚡ Fun fact: I have a some of hobbies (Guitar, Gaming, Chess...)
 
+Check out my tech stack down below =)
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="mongodb" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="mongodb" width="40" height="40"/>
