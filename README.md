@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Davi
-- 💻 I’m Solutions Architect and Senior Fullstack Software Engineer, currently working at [Grupo Boticário](https://github.com/grupoboticario);
+- 💻 I’m Solutions Architect and Senior Fullstack Software Engineer;
 - 👨‍🏫 I teach classes at [Ada](https://ada.tech/);
 - 🌱 Passionate for software engineering. I love to work with .NET, NodeJs, AWS, Azure, React JS, React Native etc;
 - ⚡ Fun fact: I have a some of hobbies (Guitar, Gaming, Chess...)
